@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+p{
+    color:cadetblue;
+    background-color: beige;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-style: italic;
+}
